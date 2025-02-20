@@ -1,5 +1,6 @@
 package com.skrewbar.snowFight;
 
+import com.skrewbar.snowFight.commands.ToggleCommand;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class SnowFight extends JavaPlugin {

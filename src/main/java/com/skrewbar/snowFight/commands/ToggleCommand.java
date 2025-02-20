@@ -1,5 +1,6 @@
-package com.skrewbar.snowFight;
+package com.skrewbar.snowFight.commands;
 
+import com.skrewbar.snowFight.SnowFight;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
