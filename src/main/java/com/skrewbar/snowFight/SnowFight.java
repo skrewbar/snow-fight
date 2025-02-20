@@ -12,6 +12,7 @@ public final class SnowFight extends JavaPlugin {
         plugin = this;
         getServer().getPluginCommand("눈싸움").setExecutor(new ToggleCommand());
         getServer().getPluginCommand("눈싸움").setTabCompleter(new ToggleCommand());
+        getServer().getPluginManager().registerEvents(new SnowballHitEvent(), this);
     }
 
     @Override
