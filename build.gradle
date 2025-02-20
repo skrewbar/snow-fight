@@ -50,5 +50,5 @@ processResources {
 
 tasks.jar {
     archiveFileName = 'SnowFight.jar'
-    destinationDirectory = file('D:\\')
+    destinationDirectory = file('D:\\minecraft\\1.21.4 server\\plugins')
 }
