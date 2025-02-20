@@ -2,3 +2,6 @@ name: SnowFight
 version: '1.0-SNAPSHOT'
 main: com.skrewbar.snowFight.SnowFight
 api-version: '1.21'
+commands:
+  눈싸움:
+    description: 눈싸움 켜기/끄기
