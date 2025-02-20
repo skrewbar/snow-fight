@@ -1,0 +1,4 @@
+name: SnowFight
+version: '1.0-SNAPSHOT'
+main: com.skrewbar.snowFight.SnowFight
+api-version: '1.21'
